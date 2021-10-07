@@ -22,6 +22,9 @@ void setup() {
 }
 
 void loop() {
+    digitalWrite(TRIG_PIN, LOW);
+    delayMicroseconds(2);
+
     // Sends a signal to the trigger pin for 10 microseconds
     digitalWrite(TRIG_PIN, HIGH);
     delayMicroseconds(10);
