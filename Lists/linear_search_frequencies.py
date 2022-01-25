@@ -1,5 +1,4 @@
 ### Linear seach and counting the frequency of elements
-from itertools import count
 import random
 
 # `ls` would just be a shuffled list of random numbers from 1 to 20.
