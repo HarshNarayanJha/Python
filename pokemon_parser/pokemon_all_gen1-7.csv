@@ -1,0 +1,722 @@
+ID,Name,Type1,Type2,HP,Atk,Def,Sp Atk,Sp Def,Spe,Color,Height,Weight,Pokedex
+1,Bulbasaur,GRASS,POISON,45,49,49,45,65,65,Green,0.7,6.9,"For some time after its birth, it grows by gaining nourishment from the seed on its back."
+2,Ivysaur,GRASS,POISON,60,62,63,60,80,80,Green,1.0,13.0,"When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom."
+3,Venusaur,GRASS,POISON,80,82,83,80,100,100,Green,2.0,100.0,"After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+4,Charmander,FIRE,None,39,52,43,65,60,50,Red,0.6,8.5,"From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
+5,Charmeleon,FIRE,None,58,64,58,80,80,65,Red,1.1,19.0,"When it swings its burning tail, it elevates the air temperature to unbearably high levels."
+6,Charizard,FIRE,FLYING,78,84,78,100,109,85,Red,1.7,90.5,"Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+7,Squirtle,WATER,None,44,48,65,43,50,64,Blue,0.5,9.0,Shoots water at prey while in the water. Withdraws into its shell when in danger.
+8,Wartortle,WATER,None,59,63,80,58,65,80,Blue,1.0,22.5,"It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+9,Blastoise,WATER,None,79,83,100,78,85,105,Blue,1.6,85.5,The pressurized water jets on this brutal Pokémon's shell are used for high-speed tackles.
+10,Caterpie,BUG,None,45,30,35,45,20,20,Green,0.3,2.9,Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.
+11,Metapod,BUG,None,50,20,55,30,25,25,Green,0.7,9.9,"This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+12,Butterfree,BUG,FLYING,60,45,50,70,90,80,White,1.1,32.0,"The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain."
+13,Weedle,BUG,POISON,40,35,30,50,20,20,Brown,0.3,3.2,Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.
+14,Kakuna,BUG,POISON,45,25,50,35,25,25,Yellow,0.6,10.0,"While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+15,Beedrill,BUG,POISON,65,90,40,75,45,80,Yellow,1.0,29.5,"May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear."
+16,Pidgey,NORMAL,FLYING,40,45,40,56,35,35,Brown,0.3,1.8,"It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+17,Pidgeotto,NORMAL,FLYING,63,60,55,71,50,50,Brown,1.1,30.0,"Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder."
+18,Pidgeot,NORMAL,FLYING,83,80,75,101,70,70,Brown,1.5,39.5,It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.
+19,Rattata,NORMAL,None,30,56,35,72,25,35,Purple,0.3,3.5,"Its fangs are long and very sharp. They grow continuously, so it gnaws on hard things to whittle them down."
+20,Raticate,NORMAL,None,55,81,60,97,50,70,Brown,0.7,18.5,The webs on its hind legs enable it to cross rivers. It searches wide areas for food.
+21,Spearow,NORMAL,FLYING,40,60,30,70,31,31,Brown,0.3,2.0,Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.
+22,Fearow,NORMAL,FLYING,65,90,65,100,61,61,Brown,1.2,38.0,It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.
+23,Ekans,POISON,None,35,60,44,55,40,54,Purple,2.0,6.9,"Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow, whole."
+24,Arbok,POISON,None,60,95,69,80,65,79,Purple,3.5,65.0,"To intimidate foes, it spreads its chest wide and makes eerie sounds by expelling air from its mouth."
+25,Pikachu,ELECTRIC,None,35,55,40,90,50,50,Yellow,0.4,6.0,"It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs."
+26,Raichu,ELECTRIC,None,60,90,55,110,90,80,Yellow,0.8,30.0,"It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size."
+27,Sandshrew,GROUND,None,50,75,85,40,20,30,Yellow,0.6,12.0,"Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball."
+28,Sandslash,GROUND,None,75,100,110,65,45,55,Yellow,1.0,29.5,Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.
+29,Nidoran,POISON,None,55,47,52,41,40,40,Blue,0.4,7.0,"Small and very docile, it protects itself with its small, poisonous horn when attacked."
+30,Nidorina,POISON,None,70,62,67,56,55,55,Blue,0.8,20.0,"When feeding its young, it first chews the food into a paste, then spits it out for the offspring."
+31,Nidoqueen,POISON,GROUND,90,92,87,76,75,85,Blue,1.3,60.0,"The body is covered by stiff, needlelike scales. If it becomes excited, the needles bristle outwards."
+32,Nidoran,POISON,None,46,57,40,50,40,40,Purple,0.5,9.0,Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.
+33,Nidorino,POISON,None,61,72,57,65,55,55,Purple,0.9,19.5,An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.
+34,Nidoking,POISON,GROUND,81,102,77,85,85,75,Purple,1.4,62.0,One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
+35,Clefairy,FAIRY,None,70,45,48,35,60,65,Pink,0.6,7.5,The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.
+36,Clefable,FAIRY,None,95,70,73,60,95,90,Pink,1.3,40.0,"A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people."
+37,Vulpix,FIRE,None,38,41,40,65,50,65,Brown,0.6,9.9,"While young, it has six gorgeous tails. When it grows, several new tails are sprouted."
+38,Ninetales,FIRE,None,73,76,75,100,81,100,Yellow,1.1,19.9,"Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse."
+39,Jigglypuff,NORMAL,FAIRY,115,45,20,20,45,25,Pink,0.5,5.5,"If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience."
+40,Wigglytuff,NORMAL,FAIRY,140,70,45,45,85,50,Pink,1.0,12.0,"The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+41,Zubat,POISON,FLYING,40,45,35,55,30,40,Purple,0.8,7.5,"It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness."
+42,Golbat,POISON,FLYING,75,80,70,90,65,75,Purple,1.6,55.0,"Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey."
+43,Oddish,GRASS,POISON,45,50,55,30,75,65,Blue,0.5,5.4,"Its scientific name is ""Oddium Wanderus."" At night, it is said to walk nearly 1,000 feet on its two roots."
+44,Gloom,GRASS,POISON,60,65,70,40,85,75,Blue,0.8,8.6,"The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away."
+45,Vileplume,GRASS,POISON,75,80,85,50,110,90,Red,1.2,18.6,"It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen."
+46,Paras,BUG,GRASS,35,70,55,25,45,55,Red,0.3,5.4,Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+47,Parasect,BUG,GRASS,60,95,80,30,60,80,Red,1.0,29.5,"The larger the mushroom on its back grows, the stronger the mushroom spores it scatters."
+48,Venonat,BUG,POISON,60,55,50,45,40,55,Purple,1.0,30.0,Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.
+49,Venomoth,BUG,POISON,70,65,60,90,90,75,Purple,1.5,12.5,"The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust."
+50,Diglett,GROUND,None,10,55,25,95,35,45,Brown,0.2,0.8,"Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak."
+51,Dugtrio,GROUND,None,35,100,50,120,50,70,Brown,0.7,33.3,"Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles."
+52,Meowth,NORMAL,None,40,45,35,90,40,40,Yellow,0.4,4.2,Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.
+53,Persian,NORMAL,None,65,70,60,115,65,65,Yellow,1.0,32.0,Its lithe muscles allow it to walk without making a sound. It attacks in an instant.
+54,Psyduck,WATER,None,50,52,48,55,65,50,Yellow,0.8,19.6,It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.
+55,Golduck,WATER,None,80,82,78,85,95,80,Blue,1.7,76.6,"The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc."
+56,Mankey,FIGHTING,None,40,80,35,70,35,45,Brown,0.5,28.0,"It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason."
+57,Primeape,FIGHTING,None,65,105,60,95,60,70,Brown,1.0,32.0,"It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far."
+58,Growlithe,FIRE,None,55,70,45,60,70,50,Brown,0.7,19.0,It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.
+59,Arcanine,FIRE,None,90,110,80,95,100,80,Brown,1.9,155.0,Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.
+60,Poliwag,WATER,None,40,50,40,90,40,40,Blue,0.6,12.4,The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.
+61,Poliwhirl,WATER,None,65,65,65,90,50,50,Blue,1.0,20.0,"Its two legs are well developed. Even though it can live on the ground, it prefers living in water."
+62,Poliwrath,WATER,FIGHTING,90,95,95,70,70,90,Blue,1.3,54.0,A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.
+63,Abra,PSYCHIC,None,25,20,15,90,105,55,Brown,0.9,19.5,It senses impending attacks and teleports away to safety before the actual attacks can strike.
+64,Kadabra,PSYCHIC,None,40,35,30,105,120,70,Brown,1.3,56.5,"If it uses its abilities, it emits special alpha waves that cause machines to malfunction."
+65,Alakazam,PSYCHIC,None,55,50,45,120,135,95,Brown,1.5,48.0,"Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000."
+66,Machop,FIGHTING,None,70,80,50,35,35,35,Gray,0.8,19.5,"Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups."
+67,Machoke,FIGHTING,None,80,100,70,45,50,60,Gray,1.5,70.5,"It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs."
+68,Machamp,FIGHTING,None,90,130,80,55,65,85,Gray,1.6,130.0,"It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon."
+69,Bellsprout,GRASS,POISON,50,75,35,40,70,30,Green,0.7,4.0,"Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant."
+70,Weepinbell,GRASS,POISON,65,90,50,55,85,45,Green,1.0,6.4,It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.
+71,Victreebel,GRASS,POISON,80,105,65,70,100,70,Green,1.7,15.5,"Once ingested into this Pokémon's body, even the hardest object will melt into nothing."
+72,Tentacool,WATER,POISON,40,40,35,70,50,100,Blue,0.9,45.5,Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.
+73,Tentacruel,WATER,POISON,80,70,65,100,80,120,Blue,1.6,55.0,"It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain."
+74,Geodude,ROCK,GROUND,40,80,100,20,30,30,Brown,0.4,20.0,It is impossible to distinguish from rocks. It slams against others in contests of hardness.
+75,Graveler,ROCK,GROUND,55,95,115,35,45,45,Brown,1.0,105.0,Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.
+76,Golem,ROCK,GROUND,80,120,130,45,55,65,Brown,1.4,300.0,"Even dynamite can't harm its hard, boulder-like body. It sheds its hide just once a year."
+77,Ponyta,FIRE,None,50,85,55,90,65,65,Yellow,1.0,30.0,Its legs grow strong while it chases after its parent. It runs in fields and mountains all day.
+78,Rapidash,FIRE,None,65,100,70,105,80,80,Yellow,1.7,95.0,"It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow."
+79,Slowpoke,WATER,PSYCHIC,90,65,65,15,40,40,Pink,1.2,36.0,"It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day."
+80,Slowbro,WATER,PSYCHIC,95,75,110,30,100,80,Pink,1.6,78.5,"When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro."
+81,Magnemite,ELECTRIC,STEEL,25,35,70,45,95,55,Gray,0.3,6.0,It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.
+82,Magneton,ELECTRIC,STEEL,50,60,95,70,120,70,Gray,1.0,60.0,"Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet."
+83,Farfetch'd,NORMAL,FLYING,52,90,55,60,58,62,Brown,0.8,15.0,It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.
+84,Doduo,NORMAL,FLYING,35,85,45,75,35,35,Brown,1.4,39.2,The brains in its two heads appear to communicate emotions to each other with a telepathic power.
+85,Dodrio,NORMAL,FLYING,60,110,70,110,60,60,Brown,1.8,85.2,"An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger."
+86,Seel,WATER,None,65,45,55,45,45,70,White,1.1,90.0,"Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit."
+87,Dewgong,WATER,ICE,90,70,80,70,70,95,White,1.7,120.0,"Its streamlined body has little drag in water. The colder the temperature, the friskier it gets."
+88,Grimer,POISON,None,80,80,50,25,40,50,Purple,0.9,30.0,Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.
+89,Muk,POISON,None,105,105,75,50,65,100,Purple,1.2,30.0,A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.
+90,Shellder,WATER,None,30,65,100,40,45,25,Purple,0.3,4.0,"Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort."
+91,Cloyster,WATER,ICE,50,95,180,70,85,45,Purple,1.5,132.5,"Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking."
+92,Gastly,GHOST,POISON,30,35,30,80,100,35,Purple,1.3,0.1,"Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+93,Haunter,GHOST,POISON,45,50,45,95,115,55,Purple,1.6,0.1,It licks with its gaseous tongue to steal the victim's life force. It lurks in darkness for prey.
+94,Gengar,GHOST,POISON,60,65,60,110,130,75,Purple,1.5,40.5,"Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake."
+95,Onix,ROCK,GROUND,35,45,160,70,30,45,Gray,8.8,210.0,It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.
+96,Drowzee,PSYCHIC,None,60,48,45,42,43,90,Yellow,1.0,32.4,"If you think that you had a good dream but you can't remember it, a Drowzee has probably eaten it."
+97,Hypno,PSYCHIC,None,85,73,70,67,73,115,Yellow,1.6,75.6,"Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up."
+98,Krabby,WATER,None,30,105,90,50,25,25,Red,0.4,6.5,It can be found near the sea. The large pincers grow back if they are torn out of their sockets.
+99,Kingler,WATER,None,55,130,115,75,50,50,Red,1.3,60.0,"Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers."
+100,Voltorb,ELECTRIC,None,40,30,50,100,55,55,Red,0.5,10.4,"Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people."
+101,Electrode,ELECTRIC,None,60,50,70,150,80,80,Red,1.2,66.6,It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.
+102,Exeggcute,GRASS,PSYCHIC,60,40,80,40,60,45,Pink,0.4,2.5,"Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds."
+103,Exeggutor,GRASS,PSYCHIC,95,95,85,55,125,75,Yellow,2.0,120.0,"It is called ""The Walking Jungle."" If a head grows too big, it falls off and becomes an Exeggcute."
+104,Cubone,GROUND,None,50,50,95,35,40,50,Brown,0.4,6.5,"It always wears the skull of its dead mother, so no one has any idea what its hidden face looks like."
+105,Marowak,GROUND,None,60,80,110,45,50,80,Brown,1.0,45.0,The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.
+106,Hitmonlee,FIGHTING,None,50,120,53,87,35,110,Brown,1.5,49.8,"If it starts kicking repeatedly, both legs will stretch even longer to strike a fleeing foe."
+107,Hitmonchan,FIGHTING,None,50,105,79,76,35,110,Brown,1.4,50.2,The spirit of a pro boxer has infused this Pokémon. It throws punches that are faster than a bullet train.
+108,Lickitung,NORMAL,None,90,55,75,30,60,75,Pink,1.2,65.5,Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.
+109,Koffing,POISON,None,40,65,95,35,60,45,Purple,0.6,1.0,"Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive."
+110,Weezing,POISON,None,65,90,120,60,85,70,Purple,1.2,9.5,"Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing."
+111,Rhyhorn,GROUND,ROCK,80,85,95,25,30,30,Gray,1.0,115.0,It is inept at turning because of its four short legs. It can only charge and run in one direction.
+112,Rhydon,GROUND,ROCK,105,130,120,40,45,45,Gray,1.9,120.0,It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+113,Chansey,NORMAL,None,250,5,5,50,35,105,Pink,1.1,34.6,It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.
+114,Tangela,GRASS,None,65,55,115,60,100,40,Blue,1.0,35.0,It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.
+115,Kangaskhan,NORMAL,None,105,95,80,90,40,80,Brown,2.2,80.0,"If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster."
+116,Horsea,WATER,None,30,40,70,60,70,25,Blue,0.4,8.0,"It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees."
+117,Seadra,WATER,None,55,65,95,85,95,45,Blue,1.2,25.0,It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.
+118,Goldeen,WATER,None,45,67,60,63,35,50,Red,0.6,15.0,"Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the water dancer."
+119,Seaking,WATER,None,80,92,65,68,65,80,Red,1.3,39.0,It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.
+120,Staryu,WATER,None,30,45,55,85,70,55,Brown,0.8,34.5,"It appears in large numbers by seashores. At night, its central core flashes with a red light."
+121,Starmie,WATER,PSYCHIC,60,75,85,115,100,85,Purple,1.1,80.0,"At the center of its body is a red core, which sends mysterious radio signals into the night sky."
+122,Mr. Mime,PSYCHIC,FAIRY,40,45,65,90,100,120,Pink,1.3,54.5,It is adept at conning people. It is said to be able to create walls out of thin air by miming.
+123,Scyther,BUG,FLYING,70,110,80,105,55,80,Green,1.5,56.0,"It slashes through grass with its sharp scythes, moving too fast for the human eye to track."
+124,Jynx,ICE,PSYCHIC,65,50,35,95,115,95,Red,1.4,40.6,It speaks using a language that sounds human. Research is under way to determine what is being said.
+125,Electabuzz,ELECTRIC,None,65,83,57,105,95,85,Yellow,1.1,30.0,It loves to feed on strong electricity. It occasionally appears around large power plants and so on.
+126,Magmar,FIRE,None,65,95,57,93,100,85,Red,1.3,44.5,"Born in the spout of a volcano, its body is covered by flames that shimmer like the sun."
+127,Pinsir,BUG,None,65,125,100,85,55,70,Brown,1.5,55.0,"It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests."
+128,Tauros,NORMAL,None,75,100,95,110,40,70,Brown,1.4,88.4,"When it is about to tackle, it whips its body repeatedly with its three long tails."
+129,Magikarp,WATER,None,20,10,55,80,15,20,Red,0.9,10.0,"In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+130,Gyarados,WATER,FLYING,95,125,79,81,60,100,Blue,6.5,235.0,"Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+131,Lapras,WATER,ICE,130,85,80,60,85,95,Blue,2.5,220.0,Its high intelligence enables it to understand human speech. It likes to ferry people on its back.
+132,Ditto,NORMAL,None,48,48,48,48,48,48,Purple,0.3,4.0,It can freely recombine its own cellular structure to transform into other life-forms.
+133,Eevee,NORMAL,None,55,55,50,55,45,65,Brown,0.3,6.5,"Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions."
+134,Vaporeon,WATER,None,130,65,60,65,110,95,Blue,1.0,29.0,It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.
+135,Jolteon,ELECTRIC,None,65,65,60,130,110,95,Yellow,0.8,24.5,"It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts."
+136,Flareon,FIRE,None,65,130,60,65,95,110,Red,0.9,25.0,"It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,000 degrees Fahrenheit."
+137,Porygon,NORMAL,None,65,60,70,40,85,75,Pink,0.8,36.5,A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.
+138,Omanyte,ROCK,WATER,35,40,100,35,90,55,Blue,0.4,7.5,"Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water."
+139,Omastar,ROCK,WATER,70,60,125,55,115,70,Blue,1.0,35.0,"Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs."
+140,Kabuto,ROCK,WATER,30,80,90,55,55,45,Brown,0.5,11.5,This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.
+141,Kabutops,ROCK,WATER,60,115,105,80,65,70,Brown,1.3,40.5,A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
+142,Aerodactyl,ROCK,FLYING,80,105,65,130,60,75,Purple,1.8,59.0,This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.
+143,Snorlax,NORMAL,None,160,110,65,30,65,110,Black,2.1,460.0,"Its stomach can digest any kind of food, even if it happens to be moldy or rotten."
+144,Articuno,ICE,FLYING,90,85,100,85,95,125,Blue,1.7,55.4,A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.
+145,Zapdos,ELECTRIC,FLYING,90,90,85,100,125,90,Yellow,1.6,52.6,A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.
+146,Moltres,FIRE,FLYING,90,100,90,90,125,85,Yellow,2.0,60.0,One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.
+147,Dratini,DRAGON,None,41,64,45,50,50,50,Blue,1.8,3.3,This Pokémon is full of life energy. It continually sheds its skin and grows steadily larger.
+148,Dragonair,DRAGON,None,61,84,65,70,70,70,Blue,4.0,16.5,A mystical Pokémon that exudes a gentle aura. It is said to have the ability to change the weather.
+149,Dragonite,DRAGON,FLYING,91,134,95,80,100,100,Brown,2.2,210.0,It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.
+150,Mewtwo,PSYCHIC,None,106,110,90,130,154,90,Purple,2.0,122.0,A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.
+151,Mew,PSYCHIC,None,100,100,100,100,100,100,Pink,0.4,4.0,"Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques."
+152,Chikorita,GRASS,None,45,49,65,45,49,65,Green,0.9,6.4,It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.
+153,Bayleef,GRASS,None,60,62,80,60,63,80,Green,1.2,15.8,The buds that ring its neck give off a spicy aroma that perks people up.
+154,Meganium,GRASS,None,80,82,100,80,83,100,Green,1.8,100.5,Meganium's breath has the power to revive dead grass and plants. It can make them healthy again.
+155,Cyndaquil,FIRE,None,39,52,43,65,60,50,Yellow,0.5,7.9,"It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+156,Quilava,FIRE,None,58,64,58,80,80,65,Yellow,0.9,19.0,Be careful if it turns its back during battle. It means that it will attack with the fire on its back.
+157,Typhlosion,FIRE,None,78,84,78,100,109,85,Yellow,1.7,79.5,"It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+158,Totodile,WATER,None,50,65,64,43,44,48,Blue,0.6,9.5,"Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful."
+159,Croconaw,WATER,None,65,80,80,58,59,63,Blue,1.1,25.0,"Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place."
+160,Feraligatr,WATER,None,85,105,100,78,79,83,Blue,2.3,88.8,"When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up."
+161,Sentret,NORMAL,None,35,46,34,20,35,45,Brown,0.8,6.0,"It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+162,Furret,NORMAL,None,85,76,64,90,45,55,Brown,1.8,32.5,It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.
+163,Hoothoot,NORMAL,FLYING,60,30,30,50,36,56,Brown,0.7,21.2,"It always stands on one foot. It changes feet so fast, the movement can rarely be seen."
+164,Noctowl,NORMAL,FLYING,100,50,50,70,86,96,Brown,1.6,40.8,"When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
+165,Ledyba,BUG,FLYING,40,20,30,55,40,80,Red,1.0,10.8,It is timid and clusters together with others. The fluid secreted by its feet indicates its location.
+166,Ledian,BUG,FLYING,55,35,50,85,55,110,Red,1.4,35.6,The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.
+167,Spinarak,BUG,POISON,40,60,40,30,40,40,Green,0.5,8.5,"It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close."
+168,Ariados,BUG,POISON,70,90,70,40,60,70,Red,1.1,33.5,"It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends."
+169,Crobat,POISON,FLYING,85,90,80,130,70,80,Purple,1.8,75.0,Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.
+170,Chinchou,WATER,ELECTRIC,75,38,38,67,56,56,Blue,0.5,12.0,It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies.
+171,Lanturn,WATER,ELECTRIC,125,58,58,67,76,76,Blue,1.2,22.5,"It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp."
+172,Pichu,ELECTRIC,None,20,40,15,60,35,35,Yellow,0.3,2.0,It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.
+173,Cleffa,FAIRY,None,50,25,28,15,45,55,Pink,0.3,3.0,Many appear when the night skies are filled with shooting stars. They disappear with sunrise.
+174,Igglybuff,NORMAL,FAIRY,90,30,15,15,40,20,Pink,0.3,1.0,"It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop."
+175,Togepi,FAIRY,None,35,20,65,20,40,65,White,0.3,1.5,A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.
+176,Togetic,FAIRY,FLYING,55,40,85,40,80,105,White,0.6,3.2,"They say that it will appear before kindhearted, caring people and shower them with happiness."
+177,Natu,PSYCHIC,FLYING,40,50,45,70,70,45,Green,0.2,2.0,"It usually forages for food on the ground but may, on rare occasions, hop onto branches to peck at shoots."
+178,Xatu,PSYCHIC,FLYING,65,75,70,95,95,70,Green,1.5,15.0,They say that it stays still and quiet because it is seeing both the past and future at the same time.
+179,Mareep,ELECTRIC,None,55,40,40,35,65,45,White,0.6,7.8,"It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter."
+180,Flaaffy,ELECTRIC,None,70,55,55,45,80,60,Pink,0.8,13.3,"If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact."
+181,Ampharos,ELECTRIC,None,90,75,85,55,115,90,Yellow,1.4,61.5,The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.
+182,Bellossom,GRASS,None,75,80,95,50,90,100,Green,0.4,5.8,"When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+183,Marill,WATER,FAIRY,70,20,50,40,20,50,Blue,0.4,8.5,"The tip of its tail is filled with oil that is lighter than water, so it acts as a float."
+184,Azumarill,WATER,FAIRY,100,50,80,50,60,80,Blue,0.8,28.5,The bubble-like pattern on its stomach helps it camouflage itself when it's in the water.
+185,Sudowoodo,ROCK,None,70,100,115,30,30,65,Brown,1.2,38.0,"It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining."
+186,Politoed,WATER,None,90,75,75,70,90,100,Green,1.1,33.9,"If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide."
+187,Hoppip,GRASS,FLYING,35,35,40,50,35,55,Pink,0.4,0.5,"It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way."
+188,Skiploom,GRASS,FLYING,55,45,50,80,45,65,Green,0.6,1.0,It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.
+189,Jumpluff,GRASS,FLYING,75,55,70,110,55,95,Blue,0.8,3.0,"Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants."
+190,Aipom,NORMAL,None,55,70,55,85,40,55,Purple,0.8,11.5,Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.
+191,Sunkern,GRASS,None,30,30,30,30,30,30,Yellow,0.3,1.8,It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.
+192,Sunflora,GRASS,None,75,75,55,30,105,85,Yellow,0.8,8.5,It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.
+193,Yanma,BUG,FLYING,65,65,45,95,75,45,Red,1.2,38.0,"If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area."
+194,Wooper,WATER,GROUND,55,45,45,15,25,25,Blue,0.4,8.5,"When the temperature cools in the evening, they emerge from water to seek food along the shore."
+195,Quagsire,WATER,GROUND,95,85,85,35,65,65,Blue,1.4,75.0,"This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls."
+196,Espeon,PSYCHIC,None,65,65,60,110,130,95,Purple,0.9,26.5,"Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes' thoughts."
+197,Umbreon,DARK,None,95,65,110,65,60,130,Black,1.0,27.0,"When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power."
+198,Murkrow,DARK,FLYING,60,85,42,91,85,42,Black,0.5,2.1,"Feared and loathed by many, it is believed to bring misfortune to all those who see it at night."
+199,Slowking,WATER,PSYCHIC,95,75,80,30,100,110,Pink,2.0,79.5,"When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power."
+200,Misdreavus,GHOST,None,60,60,60,85,85,85,Purple,0.7,1.0,"It likes playing mischievous tricks, such as screaming and wailing to startle people at night."
+201,Unown,PSYCHIC,None,48,72,48,48,72,48,Black,0.5,5.0,"Shaped like ancient writing, it is a huge mystery whether language or Unown came first."
+202,Wobbuffet,PSYCHIC,None,190,33,58,33,33,58,Blue,1.3,28.5,"To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+203,Girafarig,NORMAL,PSYCHIC,70,80,65,85,90,65,Yellow,1.5,41.5,"Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting."
+204,Pineco,BUG,None,50,65,90,15,35,35,Gray,0.6,7.2,It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.
+205,Forretress,BUG,STEEL,75,90,140,40,60,60,Purple,1.2,125.8,It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.
+206,Dunsparce,NORMAL,None,100,70,70,45,65,65,Yellow,1.5,14.0,It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.
+207,Gligar,GROUND,FLYING,65,75,105,85,35,65,Purple,1.1,64.8,"It flies straight at its target's face, then clamps down on the startled victim to inject poison."
+208,Steelix,STEEL,GROUND,75,85,200,30,55,65,Gray,9.2,400.0,It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.
+209,Snubbull,FAIRY,None,60,80,50,30,40,40,Pink,0.6,7.8,"Small Pokémon flee from its scary face. It is, however, considered by women to be cute."
+210,Granbull,FAIRY,None,90,120,75,45,60,60,Purple,1.4,48.7,It can make most any Pokémon run away simply by opening its mouth wide to reveal its big fangs.
+211,Qwilfish,WATER,POISON,65,95,85,85,55,55,Gray,0.5,3.9,The small spikes covering its body developed from scales. They inject a toxin that causes fainting.
+212,Scizor,BUG,STEEL,70,130,100,65,55,80,Red,1.8,118.0,It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.
+213,Shuckle,BUG,ROCK,20,10,230,5,10,230,Yellow,0.6,20.5,"It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still."
+214,Heracross,BUG,FIGHTING,80,125,75,85,40,95,Blue,1.5,54.0,"With its Herculean powers, it can easily throw around an object that is 100 times its own weight."
+215,Sneasel,DARK,ICE,55,95,55,115,35,75,Black,0.9,28.0,"Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy."
+216,Teddiursa,NORMAL,None,60,80,50,40,50,50,Brown,0.6,8.8,"Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations."
+217,Ursaring,NORMAL,None,90,130,75,55,75,75,Brown,1.8,125.8,"Although it has a large body, it is quite skilled at climbing trees. It eats and sleeps in the treetops."
+218,Slugma,FIRE,None,40,40,40,20,70,40,Red,0.7,35.0,"Its body is made of magma. If it doesn't keep moving, its body will cool and harden."
+219,Magcargo,FIRE,ROCK,60,50,120,30,90,80,Red,0.8,55.0,Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.
+220,Swinub,ICE,GROUND,50,50,40,50,30,30,Brown,0.4,6.5,"If it smells something enticing, it dashes off headlong to find the source of the aroma."
+221,Piloswine,ICE,GROUND,100,100,80,50,60,60,Brown,1.1,55.8,"Because the long hair all over its body obscures its sight, it just keeps charging repeatedly."
+222,Corsola,WATER,ROCK,65,55,95,35,65,95,Pink,0.6,5.0,They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.
+223,Remoraid,WATER,None,35,65,35,65,65,35,Gray,0.6,12.0,"Using its dorsal fin as a suction pad, it clings to a Mantine's underside to scavenge for leftovers."
+224,Octillery,WATER,None,75,105,75,45,105,75,Red,0.9,28.5,"It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head."
+225,Delibird,ICE,FLYING,45,55,45,75,65,45,Red,0.9,16.0,"It carries food all day long. When someone is lost in the mountains, it shares that food."
+226,Mantine,WATER,FLYING,85,40,70,70,80,140,Purple,2.1,220.0,"While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps."
+227,Skarmory,STEEL,FLYING,65,80,140,70,40,70,Gray,1.7,50.5,"Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph."
+228,Houndour,DARK,FIRE,45,60,30,65,80,50,Black,0.6,10.8,"To corner prey, they check each other's location using barks that only they can understand."
+229,Houndoom,DARK,FIRE,75,90,50,95,110,80,Black,1.4,35.0,"The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever."
+230,Kingdra,WATER,DRAGON,75,95,95,85,95,95,Blue,1.8,152.0,It stores energy by sleeping at underwater depths at which no other life-forms can survive.
+231,Phanpy,GROUND,None,90,60,60,40,40,40,Blue,0.5,33.5,It is strong despite its compact size. It can easily pick up and carry an adult human on its back.
+232,Donphan,GROUND,None,90,120,120,50,60,60,Gray,1.1,120.0,"The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow."
+233,Porygon2,NORMAL,None,85,80,90,60,105,95,Red,0.6,32.5,"With planetary development software installed, it became capable of working in space."
+234,Stantler,NORMAL,None,73,95,62,85,85,65,Brown,1.4,71.2,The curved antlers subtly change the flow of air to create a strange space where reality is distorted.
+235,Smeargle,NORMAL,None,55,20,35,75,20,45,White,1.2,58.0,"Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back."
+236,Tyrogue,FIGHTING,None,35,35,35,35,35,35,Purple,0.7,21.0,"To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit."
+237,Hitmontop,FIGHTING,None,50,95,95,70,35,110,Brown,1.4,48.0,"If you are enchanted by its smooth, dance-like kicks, you may get a closer experience with one than you'd like."
+238,Smoochum,ICE,PSYCHIC,45,30,15,65,85,65,Pink,0.4,6.0,"It tests everything by touching with its lips, which remember what it likes and dislikes."
+239,Elekid,ELECTRIC,None,45,63,37,95,65,55,Yellow,0.6,23.5,Spinning its arms around to generate electricity makes the area between its horns shine light blue.
+240,Magby,FIRE,None,45,75,37,83,70,55,Red,0.7,21.4,"Its magma-like blood circulates throughout its body. Its body's heat can top 1,100 degrees Fahrenheit."
+241,Miltank,NORMAL,None,95,80,105,100,40,70,Pink,1.2,75.5,"Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary."
+242,Blissey,NORMAL,None,255,10,10,55,75,135,Pink,1.5,46.8,This kindhearted Pokémon nurses sick Pokémon to health. It senses feelings of sadness.
+243,Raikou,ELECTRIC,None,90,85,75,115,115,100,Yellow,1.9,178.0,"This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity."
+244,Entei,FIRE,None,115,115,85,100,90,75,Brown,2.1,198.0,"It is said that when it roars, a volcano erupts somewhere around the globe."
+245,Suicune,WATER,None,100,75,115,85,90,115,Blue,2.0,187.0,"Said to be the embodiment of north winds, it can instantly purify filthy, murky water."
+246,Larvitar,ROCK,GROUND,50,64,50,41,45,50,Green,0.6,72.0,"Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil."
+247,Pupitar,ROCK,GROUND,70,84,70,51,65,70,Gray,1.2,152.0,"Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain."
+248,Tyranitar,ROCK,DARK,100,134,110,61,95,100,Green,2.0,202.0,"If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward."
+249,Lugia,PSYCHIC,FLYING,106,90,130,110,90,154,White,5.2,216.0,It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.
+250,Ho-Oh,FIRE,FLYING,106,130,90,90,110,154,Red,3.8,199.0,"It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings."
+251,Celebi,PSYCHIC,GRASS,100,100,100,100,100,100,Green,0.6,5.0,"It has the power to travel across time, but it is said to appear only in peaceful times."
+252,Treecko,GRASS,None,40,45,35,70,65,55,Green,0.5,5.0,Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.
+253,Grovyle,GRASS,None,50,65,45,95,85,65,Green,0.9,21.6,"It lives in dense jungles. While closing in on its prey, it leaps from branch to branch."
+254,Sceptile,GRASS,None,70,85,65,120,105,85,Green,1.7,52.2,It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.
+255,Torchic,FIRE,None,45,60,40,45,70,50,Red,0.4,2.5,"A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees Fahrenheit."
+256,Combusken,FIRE,FIGHTING,60,85,60,55,85,60,Red,0.9,19.5,"During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power."
+257,Blaziken,FIRE,FIGHTING,80,120,70,80,110,70,Red,1.9,52.0,"When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings."
+258,Mudkip,WATER,None,50,70,50,40,50,50,Blue,0.4,7.6,"To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders."
+259,Marshtomp,WATER,GROUND,70,85,70,50,60,70,Blue,0.7,28.0,Living on muddy ground that provides poor footing has made its legs sturdy.
+260,Swampert,WATER,GROUND,100,110,90,60,85,90,Blue,1.5,81.9,It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.
+261,Poochyena,DARK,None,35,55,35,35,30,30,Gray,0.5,13.6,It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.
+262,Mightyena,DARK,None,70,90,70,70,60,60,Gray,1.0,37.0,It chases down prey in a pack of around ten. They defeat foes with perfectly coordinated teamwork.
+263,Zigzagoon,NORMAL,None,38,30,41,60,30,41,Brown,0.4,17.5,"A Pokémon with abundant curiosity. It shows an interest in everything, so it always zigzags."
+264,Linoone,NORMAL,None,78,70,61,100,50,61,White,0.5,32.5,"It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails."
+265,Wurmple,BUG,None,45,45,35,20,20,30,Red,0.3,3.6,It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.
+266,Silcoon,BUG,None,50,35,55,15,25,25,White,0.6,10.0,It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.
+267,Beautifly,BUG,FLYING,60,70,50,65,100,50,Yellow,1.0,28.4,"It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids."
+268,Cascoon,BUG,None,50,35,55,15,25,25,Purple,0.7,11.5,"It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback."
+269,Dustox,BUG,POISON,60,50,70,65,50,90,Green,1.2,31.6,It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.
+270,Lotad,WATER,GRASS,40,30,30,30,40,50,Green,0.5,2.6,"It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts."
+271,Lombre,WATER,GRASS,60,50,50,50,60,70,Green,1.2,32.5,"It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere."
+272,Ludicolo,WATER,GRASS,80,70,70,70,90,100,Green,1.5,55.0,"The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful."
+273,Seedot,GRASS,None,40,40,50,30,30,30,Brown,0.5,4.0,"When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon."
+274,Nuzleaf,GRASS,DARK,70,70,40,60,60,40,Brown,1.0,28.0,"It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy."
+275,Shiftry,GRASS,DARK,90,100,60,80,90,60,Brown,1.3,59.6,"By flapping its leafy fan, it can whip up gusts of 100 feet per second that can level houses."
+276,Taillow,NORMAL,FLYING,40,55,30,85,30,30,Blue,0.3,2.3,"It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day."
+277,Swellow,NORMAL,FLYING,60,85,60,125,75,50,Blue,0.7,19.8,It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.
+278,Wingull,WATER,FLYING,40,30,30,85,55,30,White,0.6,9.5,"It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights."
+279,Pelipper,WATER,FLYING,60,50,100,65,95,70,Yellow,1.2,28.0,"It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill."
+280,Ralts,PSYCHIC,FAIRY,28,25,25,40,45,35,White,0.4,6.6,It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.
+281,Kirlia,PSYCHIC,FAIRY,38,35,35,50,65,55,White,0.8,20.2,It has a psychic power that enables it to distort the space around it and see into the future.
+282,Gardevoir,PSYCHIC,FAIRY,68,65,65,80,125,115,White,1.6,48.4,It has the power to predict the future. Its power peaks when it is protecting its Trainer.
+283,Surskit,BUG,WATER,40,30,32,65,50,52,Blue,0.5,1.7,It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.
+284,Masquerain,BUG,FLYING,70,60,62,80,100,82,Blue,0.8,3.6,It flaps its four wings to hover and fly freely in any direction--to and fro and sideways.
+285,Shroomish,GRASS,None,60,40,60,35,40,60,Brown,0.4,4.5,It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.
+286,Breloom,GRASS,FIGHTING,60,130,80,70,60,60,Green,1.2,39.2,It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.
+287,Slakoth,NORMAL,None,60,60,60,30,35,35,Brown,0.8,24.0,"If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day."
+288,Vigoroth,NORMAL,None,80,80,80,90,55,55,White,1.4,46.5,Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.
+289,Slaking,NORMAL,None,150,160,100,100,95,65,Brown,2.0,130.5,"It is the world's most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once."
+290,Nincada,BUG,GROUND,31,45,90,40,30,30,Gray,0.5,5.5,It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.
+291,Ninjask,BUG,FLYING,61,90,45,160,50,50,Yellow,0.8,12.0,"Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap."
+292,Shedinja,BUG,GHOST,1,90,45,40,30,30,Brown,0.8,1.2,A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.
+293,Whismur,NORMAL,None,64,51,23,28,51,23,Pink,0.6,16.3,"If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine."
+294,Loudred,NORMAL,None,84,71,43,48,71,43,Blue,1.0,40.5,The shock waves from its cries can tip over trucks. It stamps its feet to power up.
+295,Exploud,NORMAL,None,104,91,63,68,91,73,Blue,1.5,84.0,Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.
+296,Makuhita,FIGHTING,None,72,60,30,25,20,30,Yellow,1.0,86.4,It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack.
+297,Hariyama,FIGHTING,None,144,120,60,50,40,60,Brown,2.3,253.8,It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.
+298,Azurill,NORMAL,FAIRY,50,20,40,20,20,40,Blue,0.2,2.0,"It swings its large, nutrient-filled tail around to fight opponents bigger than itself."
+299,Nosepass,ROCK,None,30,45,135,30,45,90,Gray,1.0,97.0,Its magnetic nose consistently faces north. Travelers check Nosepass to get their bearings.
+300,Skitty,NORMAL,None,50,45,45,50,35,35,Pink,0.6,11.0,It shows its cute side by chasing its own tail until it gets dizzy.
+301,Delcatty,NORMAL,None,70,65,65,90,55,55,Purple,1.1,32.6,It is highly popular among female Trainers for its sublime fur. It does not keep a nest.
+302,Sableye,DARK,GHOST,50,75,75,50,65,65,Purple,0.5,11.0,It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.
+303,Mawile,STEEL,FAIRY,50,85,85,50,55,55,Black,0.6,11.5,Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.
+304,Aron,STEEL,ROCK,50,70,100,30,40,40,Gray,0.4,60.0,"When it evolves, it sheds the steel carapace that covered its whole body and develops a new one."
+305,Lairon,STEEL,ROCK,60,90,140,40,50,50,Gray,0.9,120.0,It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.
+306,Aggron,STEEL,ROCK,70,110,180,50,60,60,Gray,2.1,360.0,"While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns."
+307,Meditite,FIGHTING,PSYCHIC,30,40,55,60,40,55,Blue,0.6,11.2,"It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper."
+308,Medicham,FIGHTING,PSYCHIC,60,60,75,80,60,75,Red,1.3,31.5,"Through yoga training, it gained the psychic power to predict its foe's next move."
+309,Electrike,ELECTRIC,None,40,45,40,65,65,40,Green,0.6,15.2,It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.
+310,Manectric,ELECTRIC,None,70,75,60,105,105,60,Yellow,1.5,40.2,It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.
+311,Plusle,ELECTRIC,None,60,50,40,95,85,75,Yellow,0.4,4.2,It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.
+312,Minun,ELECTRIC,None,60,40,50,95,75,85,Yellow,0.4,4.2,"It cheers on friends. If its friends are losing, its body lets off more and more sparks."
+313,Volbeat,BUG,None,65,73,75,85,47,85,Gray,0.7,17.7,"It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light."
+314,Illumise,BUG,None,65,47,75,85,73,85,Purple,0.6,17.7,"With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+315,Roselia,GRASS,POISON,50,60,45,65,100,80,Green,0.3,2.0,Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.
+316,Gulpin,POISON,None,70,43,53,40,43,53,Green,0.4,10.3,"There is nothing its stomach can't digest. While it is digesting, vile, overpowering gases are expelled."
+317,Swalot,POISON,None,100,73,83,55,73,83,Purple,1.7,80.0,It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.
+318,Carvanha,WATER,DARK,45,90,20,65,65,20,Red,0.8,20.8,It lives in massive rivers that course through jungles. It swarms prey that enter its territory.
+319,Sharpedo,WATER,DARK,70,120,40,95,95,40,Blue,1.8,88.8,It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.
+320,Wailmer,WATER,None,130,70,35,60,70,35,Blue,2.0,130.0,It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.
+321,Wailord,WATER,None,170,90,45,60,90,45,Blue,14.5,398.0,"The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath."
+322,Numel,FIRE,GROUND,60,60,40,35,65,45,Yellow,0.7,24.0,"The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves."
+323,Camerupt,FIRE,GROUND,70,100,70,40,105,75,Red,1.9,220.0,"If angered, the humps on its back erupt in a shower of molten lava. It lives in the craters of volcanoes."
+324,Torkoal,FIRE,None,70,85,140,20,85,70,Brown,0.5,80.4,It burns coal inside its shell for energy. It blows out black soot if it is endangered.
+325,Spoink,PSYCHIC,None,60,25,35,60,70,80,Black,0.7,30.6,It bounces around on its tail to keep its heart pumping. It carries a pearl from Clamperl on its head.
+326,Grumpig,PSYCHIC,None,80,45,65,80,90,110,Purple,0.9,71.5,It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.
+327,Spinda,NORMAL,None,60,60,60,60,60,60,Brown,1.1,5.0,The chances of two Spinda having identical spot patterns is less than one in four billion.
+328,Trapinch,GROUND,None,45,100,45,10,45,45,Brown,0.7,15.0,It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.
+329,Vibrava,GROUND,DRAGON,50,70,50,70,50,50,Green,1.1,15.3,"It generates ultrasonic waves by violently flapping its wings. After making its prey faint, it melts the prey with acid."
+330,Flygon,GROUND,DRAGON,80,100,80,100,80,80,Green,2.0,82.0,"Known as ""The Desert Spirit,"" this Pokémon hides in the sandstorms it causes by beating its wings."
+331,Cacnea,GRASS,None,50,85,40,35,85,40,Green,0.4,51.3,It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.
+332,Cacturne,GRASS,DARK,70,115,60,55,115,60,Green,1.3,77.4,Packs of them follow travelers through the desert until the travelers can no longer move.
+333,Swablu,NORMAL,FLYING,45,40,60,50,40,75,Blue,0.4,1.2,It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.
+334,Altaria,DRAGON,FLYING,75,70,90,80,70,105,Blue,1.1,20.6,"On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano."
+335,Zangoose,NORMAL,None,73,115,60,90,60,60,White,1.3,40.3,Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.
+336,Seviper,POISON,None,73,100,60,65,100,60,Black,2.7,52.5,Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose's archrival.
+337,Lunatone,ROCK,PSYCHIC,90,55,65,70,95,85,Yellow,1.0,168.0,It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.
+338,Solrock,ROCK,PSYCHIC,90,95,85,70,55,65,Red,1.2,154.0,"It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking."
+339,Barboach,WATER,GROUND,50,48,43,60,46,41,Gray,0.4,1.9,"Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water."
+340,Whiscash,WATER,GROUND,110,78,73,60,76,71,Blue,0.9,23.6,"It makes its nest at the bottom of swamps. It will eat anything--if it is alive, Whiscash will eat it."
+341,Corphish,WATER,None,43,80,65,35,50,35,Red,0.6,11.5,Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.
+342,Crawdaunt,WATER,DARK,63,120,85,55,90,55,Red,1.1,32.8,"Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out."
+343,Baltoy,GROUND,PSYCHIC,40,40,55,55,40,70,Brown,0.5,21.5,It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.
+344,Claydol,GROUND,PSYCHIC,60,70,105,75,70,120,Black,1.5,108.0,It is said that it originates from clay dolls made by an ancient civilization.
+345,Lileep,ROCK,GRASS,66,41,77,23,61,87,Purple,1.0,23.8,It lived on the seafloor 100 million years ago and was reanimated scientifically.
+346,Cradily,ROCK,GRASS,86,81,97,43,81,107,Green,1.5,60.4,It ensnares prey with its eight tentacles. It then melts the prey with a strong acid before feeding.
+347,Anorith,ROCK,BUG,45,95,50,75,40,50,Gray,0.7,12.5,A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.
+348,Armaldo,ROCK,BUG,75,125,100,45,70,80,Gray,1.5,68.2,"Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed."
+349,Feebas,WATER,None,20,15,20,80,10,55,Brown,0.6,7.4,It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.
+350,Milotic,WATER,None,95,60,79,81,100,125,Pink,6.2,162.0,It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.
+351,Castform,NORMAL,None,70,70,70,70,70,70,Gray,0.3,0.8,"It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather."
+352,Kecleon,NORMAL,None,60,90,70,40,60,120,Green,1.0,22.0,It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.
+353,Shuppet,GHOST,None,44,75,35,45,63,33,Black,0.6,2.3,It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.
+354,Banette,GHOST,None,64,115,65,65,83,63,Black,1.1,12.5,"Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes."
+355,Duskull,GHOST,None,20,40,90,25,30,90,Black,0.8,15.0,"If it finds bad children who won't listen to their parents, it will spirit them away--or so it's said."
+356,Dusclops,GHOST,None,40,70,130,25,60,130,Black,1.6,30.6,Its body is hollow. It is said that those who look into its body are sucked into the void.
+357,Tropius,GRASS,FLYING,99,68,83,51,72,87,Green,2.0,100.0,The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.
+358,Chimecho,PSYCHIC,None,75,50,80,65,95,90,Blue,0.6,1.0,"Emitting ultrasonic cries, it floats on winds to travel great distances."
+359,Absol,DARK,None,65,130,60,75,75,60,White,1.2,47.0,"It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer."
+360,Wynaut,PSYCHIC,None,95,23,48,23,23,48,Blue,0.6,14.0,It grows strong by pushing up against others en masse. It loves eating sweet fruit.
+361,Snorunt,ICE,None,50,50,50,50,50,50,Gray,0.7,16.8,"In the snow country, certain folklore says a house will prosper if a Snorunt lives there."
+362,Glalie,ICE,None,80,80,80,80,80,80,Gray,1.5,256.5,It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
+363,Spheal,ICE,WATER,70,40,50,25,55,50,Blue,0.8,39.5,Its body is covered in fluffy fur. The fur keeps it from feeling cold while it is rolling on ice.
+364,Sealeo,ICE,WATER,90,60,70,45,75,70,Blue,1.1,87.6,"Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease."
+365,Walrein,ICE,WATER,110,80,90,65,95,90,Blue,1.4,150.6,It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.
+366,Clamperl,WATER,None,35,64,85,32,74,55,Blue,0.4,52.5,"It is protected by a sturdy shell. Once in a lifetime, it makes a magnificent pearl."
+367,Huntail,WATER,None,55,104,105,52,94,75,Blue,1.7,27.0,"It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey."
+368,Gorebyss,WATER,None,55,84,105,52,114,75,Pink,1.8,22.6,"Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks."
+369,Relicanth,WATER,ROCK,100,90,130,55,45,65,Gray,1.0,23.4,A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.
+370,Luvdisc,WATER,None,43,30,55,97,40,65,Pink,0.6,8.7,"During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink."
+371,Bagon,DRAGON,None,45,75,60,50,40,30,Blue,0.6,42.1,"Dreaming of one day flying, it practices by leaping off cliffs every day."
+372,Shelgon,DRAGON,None,65,95,100,50,60,50,White,1.1,110.5,"Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish."
+373,Salamence,DRAGON,FLYING,95,135,80,100,110,80,Blue,1.5,102.6,It's uncontrollable if enraged. It flies around spouting flames and scorching fields and mountains.
+374,Beldum,STEEL,PSYCHIC,40,55,80,30,35,60,Blue,0.6,95.2,"It converses with others by using magnetic pulses. In a swarm, they move in perfect unison."
+375,Metang,STEEL,PSYCHIC,60,75,100,50,55,80,Blue,1.2,202.5,"It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power."
+376,Metagross,STEEL,PSYCHIC,80,135,130,70,95,90,Blue,1.6,550.0,"Metang combined to form it. With four brains, it has the intelligence of a supercomputer."
+377,Regirock,ROCK,None,80,100,200,50,50,100,Brown,1.7,230.0,The same rocks that form its body have been found in ground layers around the world.
+378,Regice,ICE,None,80,50,100,50,100,200,Blue,1.8,175.0,Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.
+379,Registeel,STEEL,None,80,75,150,50,75,150,Gray,1.9,205.0,Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.
+380,Latias,DRAGON,PSYCHIC,80,80,90,110,110,130,Red,1.4,40.0,It can telepathically communicate with people. It changes its appearance using its down that refracts light.
+381,Latios,DRAGON,PSYCHIC,80,90,80,110,130,110,Blue,2.0,60.0,It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.
+382,Kyogre,WATER,None,100,100,90,90,150,140,Blue,4.5,352.0,It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.
+383,Groudon,GROUND,None,100,150,140,90,100,90,Red,3.5,950.0,This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.
+384,Rayquaza,DRAGON,FLYING,105,150,90,95,150,90,Green,7.0,206.5,"It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it."
+385,Jirachi,STEEL,PSYCHIC,100,100,100,100,100,100,Yellow,0.3,1.1,It is said to have the ability to grant any wish for just one week every thousand years.
+386,Deoxys,PSYCHIC,None,50,150,50,150,150,50,Red,1.7,60.8,DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.
+387,Turtwig,GRASS,None,55,68,64,31,45,55,Green,0.4,10.2,"It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty."
+388,Grotle,GRASS,None,75,89,85,36,55,65,Green,1.1,97.0,It knows where pure water wells up. It carries fellow Pokémon there on its back.
+389,Torterra,GRASS,GROUND,95,109,105,56,75,85,Green,2.2,310.0,Small Pokémon occasionally gather on its unmoving back to begin building their nests.
+390,Chimchar,FIRE,None,44,58,44,61,58,44,Brown,0.5,6.2,The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.
+391,Monferno,FIRE,FIGHTING,64,78,52,81,78,52,Brown,0.9,22.0,It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.
+392,Infernape,FIRE,FIGHTING,76,104,71,108,104,71,Brown,1.2,55.0,It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.
+393,Piplup,WATER,None,53,51,53,40,61,56,Blue,0.4,5.2,"Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+394,Prinplup,WATER,None,64,66,68,50,81,76,Blue,0.8,23.0,It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.
+395,Empoleon,WATER,STEEL,84,86,88,60,111,101,Blue,1.7,84.5,The three horns that extend from its beak attest to its power. The leader has the biggest horns.
+396,Starly,NORMAL,FLYING,40,55,30,60,30,30,Brown,0.3,2.0,"They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying."
+397,Staravia,NORMAL,FLYING,55,75,50,80,40,40,Brown,0.6,15.5,It lives in forests and fields. Squabbles over territory occur when flocks collide.
+398,Staraptor,NORMAL,FLYING,85,120,70,100,50,60,Brown,1.2,24.9,"When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings."
+399,Bidoof,NORMAL,None,59,45,40,31,35,40,Brown,0.5,20.0,It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.
+400,Bibarel,NORMAL,WATER,79,85,60,71,55,60,Brown,1.0,31.5,It makes its nest by damming streams with bark and mud. It is known as an industrious worker.
+401,Kricketot,BUG,None,37,25,41,25,25,41,Red,0.3,2.2,"When its antennae hit each other, it sounds like the music of a xylophone."
+402,Kricketune,BUG,None,77,85,51,65,55,51,Red,1.0,25.5,It signals its emotions with its melodies. Scientists are studying these melodic patterns.
+403,Shinx,ELECTRIC,None,45,65,34,45,40,34,Blue,0.5,9.5,All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.
+404,Luxio,ELECTRIC,None,60,85,49,60,60,49,Blue,0.9,30.5,Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.
+405,Luxray,ELECTRIC,None,80,120,79,70,95,79,Blue,1.4,42.0,Luxray's ability to see through objects comes in handy when it's scouting for danger.
+406,Budew,GRASS,POISON,40,30,35,55,50,70,Green,0.2,1.2,"Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen."
+407,Roserade,GRASS,POISON,60,70,65,90,125,105,Green,0.9,14.5,"With the movements of a dancer, it strikes with whips that are densely lined with poison thorns."
+408,Cranidos,ROCK,None,67,125,40,58,30,30,Blue,0.9,31.5,"A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with headbutts."
+409,Rampardos,ROCK,None,97,165,60,58,65,50,Blue,1.6,102.5,Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.
+410,Shieldon,ROCK,STEEL,30,42,118,30,42,88,Gray,0.5,57.0,It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.
+411,Bastiodon,ROCK,STEEL,60,52,168,30,47,138,Gray,1.3,149.5,Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.
+412,Burmy,BUG,None,40,29,45,36,29,45,Green,0.2,3.4,"If its cloak is broken in battle, it quickly remakes the cloak with materials nearby."
+413,Wormadam,BUG,GRASS,60,59,85,36,79,105,Green,0.5,6.5,"When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed."
+414,Mothim,BUG,FLYING,70,94,50,66,94,50,Yellow,0.9,23.3,It flutters around at night and steals honey from the Combee hive.
+415,Combee,BUG,FLYING,30,30,42,70,30,42,Yellow,0.3,5.5,"It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep."
+416,Vespiquen,BUG,FLYING,70,80,102,40,80,102,Yellow,1.2,38.5,Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.
+417,Pachirisu,ELECTRIC,None,60,45,70,95,45,90,White,0.4,3.9,A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.
+418,Buizel,WATER,None,55,65,35,85,60,30,Brown,0.7,29.5,It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.
+419,Floatzel,WATER,None,85,105,55,115,85,50,Brown,1.1,33.5,Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.
+420,Cherubi,GRASS,None,45,35,45,35,62,53,Pink,0.4,3.3,It evolves by sucking the energy out of the small ball where it had been storing nutrients.
+421,Cherrim,GRASS,None,70,60,70,85,87,78,Purple,0.5,9.3,"If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body."
+422,Shellos,WATER,None,76,48,48,34,57,62,Purple,0.3,6.3,"Its shape and coloration vary, depending on its habitat."
+423,Gastrodon,WATER,GROUND,111,83,68,39,92,82,Purple,0.9,29.9,It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.
+424,Ambipom,NORMAL,None,75,100,66,115,60,66,Purple,1.2,20.3,"To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now."
+425,Drifloon,GHOST,FLYING,90,50,34,70,60,44,Purple,0.4,1.2,"These Pokémon are called the ""Signpost for Wandering Spirits."" Children holding them sometimes vanish."
+426,Drifblim,GHOST,FLYING,150,80,44,80,90,54,Purple,1.2,15.0,"It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go."
+427,Buneary,NORMAL,None,55,66,44,85,44,56,Brown,0.4,5.5,"When it senses danger, it perks up its ears. On cold nights, it sleeps with its head tucked into its fur."
+428,Lopunny,NORMAL,None,65,76,84,105,54,96,Brown,1.2,33.3,"The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs."
+429,Mismagius,GHOST,None,60,60,60,105,105,105,Purple,0.9,4.4,Its cries sound like incantations to torment the foe. It appears where you least expect it.
+430,Honchkrow,DARK,FLYING,100,125,52,71,105,52,Black,0.9,27.3,"Becoming active at night, it is known to swarm with numerous Murkrow in tow."
+431,Glameow,NORMAL,None,49,55,42,85,42,37,Gray,0.5,3.9,"When it's happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon."
+432,Purugly,NORMAL,None,71,82,64,112,64,59,Gray,1.0,43.8,"To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails."
+433,Chingling,PSYCHIC,None,45,30,50,45,65,50,Yellow,0.2,0.6,"There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+434,Stunky,POISON,DARK,63,63,47,74,41,41,Purple,0.4,19.2,It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.
+435,Skuntank,POISON,DARK,103,93,67,84,71,61,Purple,1.0,38.0,It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.
+436,Bronzor,STEEL,PSYCHIC,57,24,86,23,24,86,Green,0.5,60.5,Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.
+437,Bronzong,STEEL,PSYCHIC,67,89,116,33,79,116,Green,1.3,187.0,Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.
+438,Bonsly,ROCK,None,50,80,95,10,10,45,Brown,0.5,15.0,It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.
+439,Mime Jr.,PSYCHIC,FAIRY,20,25,45,60,70,90,Pink,0.6,13.0,"It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon."
+440,Happiny,NORMAL,None,100,5,5,30,15,65,Pink,0.6,24.4,"It carefully carries a round, white rock that it thinks is an egg. It's bothered by how curly its hair looks."
+441,Chatot,NORMAL,FLYING,76,65,45,91,92,42,Black,0.5,1.9,"It can learn and speak human words. If they gather, they all learn the same saying."
+442,Spiritomb,GHOST,DARK,50,92,108,35,92,108,Purple,1.0,108.0,It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.
+443,Gible,DRAGON,GROUND,58,70,45,42,40,45,Blue,0.7,20.5,"It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close."
+444,Gabite,DRAGON,GROUND,68,90,65,82,50,55,Blue,1.4,56.0,"As it digs to expand its nest, it habitually digs up gems that it then hoards in its nest."
+445,Garchomp,DRAGON,GROUND,108,130,95,102,80,85,Blue,1.9,95.0,It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.
+446,Munchlax,NORMAL,None,135,85,40,5,40,85,Black,0.6,105.0,It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.
+447,Riolu,FIGHTING,None,40,70,40,60,35,40,Blue,0.7,20.2,The aura that emanates from its body intensifies to alert others if it is afraid or sad.
+448,Lucario,FIGHTING,STEEL,70,110,70,90,115,70,Blue,1.2,54.0,"By reading the auras of all things, it can tell how others are feeling from over half a mile away."
+449,Hippopotas,GROUND,None,68,72,78,32,38,42,Brown,0.8,49.5,It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.
+450,Hippowdon,GROUND,None,108,112,118,47,68,72,Brown,2.0,300.0,It blasts internally stored sand from ports on its body to create a towering twister for attack.
+451,Skorupi,POISON,BUG,40,50,90,65,30,55,Purple,0.8,12.0,It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.
+452,Drapion,POISON,DARK,70,90,110,95,60,75,Purple,1.3,61.5,It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.
+453,Croagunk,POISON,FIGHTING,48,61,40,50,61,40,Blue,0.7,23.0,"Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+454,Toxicroak,POISON,FIGHTING,83,106,65,85,86,65,Blue,1.3,44.4,Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.
+455,Carnivine,GRASS,None,74,100,72,46,90,72,Green,1.4,27.0,It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.
+456,Finneon,WATER,None,49,49,56,66,49,61,Blue,0.4,7.0,"After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives."
+457,Lumineon,WATER,None,69,69,76,91,69,86,Blue,1.2,24.0,"To avoid detection by predators, it crawls along the seafloor using the two fins on its chest."
+458,Mantyke,WATER,FLYING,45,20,50,50,60,120,Blue,1.0,65.0,"When it swims close to the surface of the ocean, people aboard ships are able to observe the pattern on its back."
+459,Snover,GRASS,ICE,60,62,50,40,62,60,White,1.0,50.5,"In the spring, it grows berries with the texture of frozen treats around its belly."
+460,Abomasnow,GRASS,ICE,90,92,75,60,92,85,White,2.2,135.5,It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.
+461,Weavile,DARK,ICE,70,120,65,125,45,85,Black,1.1,34.0,"They live in cold regions, forming groups of four or five that hunt prey with impressive coordination."
+462,Magnezone,ELECTRIC,STEEL,70,70,115,60,130,90,Gray,1.2,180.0,It evolved from exposure to a special magnetic field. Three units generate magnetism.
+463,Lickilicky,NORMAL,None,110,85,95,50,80,95,Pink,1.7,140.0,Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.
+464,Rhyperior,GROUND,ROCK,115,140,130,40,55,55,Gray,2.4,282.8,It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.
+465,Tangrowth,GRASS,None,100,100,125,50,110,50,Blue,2.0,128.6,"Its vines grow so profusely that, in the warm season, you can't even see its eyes."
+466,Electivire,ELECTRIC,None,75,123,67,95,95,85,Yellow,1.8,138.6,"It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power."
+467,Magmortar,FIRE,None,75,95,67,83,125,95,Red,1.6,68.0,"It blasts fireballs of over 3,600 degrees Fahrenheit out of its arms. Its breath also sears and sizzles."
+468,Togekiss,FAIRY,FLYING,85,50,95,80,120,115,White,1.5,38.0,It shares many blessings with people who respect one another's rights and avoid needless strife.
+469,Yanmega,BUG,FLYING,86,76,86,95,116,56,Green,1.9,51.5,This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.
+470,Leafeon,GRASS,None,65,110,130,95,60,65,Green,1.0,25.5,"Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air."
+471,Glaceon,ICE,None,65,60,110,65,130,95,Blue,0.8,25.9,It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.
+472,Gliscor,GROUND,FLYING,75,95,125,95,45,75,Purple,2.0,42.5,Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.
+473,Mamoswine,ICE,GROUND,110,130,80,80,70,60,Brown,2.5,291.0,Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.
+474,Porygon-Z,NORMAL,None,85,80,70,90,135,75,Red,0.9,34.0,Its programming was modified to enable it to travel through alien dimensions. Seems there might have been an error...
+475,Gallade,PSYCHIC,FIGHTING,68,125,65,80,65,115,White,1.6,52.0,"A master of courtesy and swordsmanship, it fights using extending swords on its elbows."
+476,Probopass,ROCK,STEEL,60,55,145,40,75,150,Gray,1.4,340.0,It freely controls three small units called Mini-Noses using magnetic force.
+477,Dusknoir,GHOST,None,45,100,135,45,65,135,Black,2.2,106.6,The antenna on its head captures radio waves from the world of spirits that command it to take people there.
+478,Froslass,ICE,GHOST,70,80,70,110,80,70,White,1.3,26.6,Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.
+479,Rotom,ELECTRIC,GHOST,50,50,77,91,95,77,Red,0.3,0.3,Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.
+480,Uxie,PSYCHIC,None,75,75,130,95,75,130,Yellow,0.3,0.3,It is said that its emergence gave humans the intelligence to improve their quality of life.
+481,Mesprit,PSYCHIC,None,80,105,105,80,105,105,Pink,0.3,0.3,It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake's surface.
+482,Azelf,PSYCHIC,None,75,125,70,115,125,70,Blue,0.3,0.3,"It is thought that Uxie, Mesprit, and Azelf all came from the same egg."
+483,Dialga,STEEL,DRAGON,100,120,120,90,150,100,White,5.4,683.0,It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.
+484,Palkia,WATER,DRAGON,90,120,100,100,150,120,Purple,4.2,336.0,It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.
+485,Heatran,FIRE,STEEL,91,90,106,77,130,106,Brown,1.7,430.0,"Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves."
+486,Regigigas,NORMAL,None,110,160,110,100,80,110,White,3.7,420.0,There is an enduring legend that states this Pokémon towed continents with ropes.
+487,Giratina,GHOST,DRAGON,150,100,120,90,100,120,Black,4.5,750.0,It was banished for its violence. It silently gazed upon the old world from the Distortion World.
+488,Cresselia,PSYCHIC,None,120,70,120,85,75,130,Yellow,1.5,85.6,Those who sleep holding Cresselia's feather are assured of joyful dreams. It is said to represent the crescent moon.
+489,Phione,WATER,None,80,80,80,80,80,80,Blue,0.4,3.1,"It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted."
+490,Manaphy,WATER,None,100,100,100,100,100,100,Blue,0.3,1.4,It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.
+491,Darkrai,DARK,None,70,90,90,125,135,90,Black,1.5,50.5,It can lull people to sleep and make them dream. It is active during nights of the new moon.
+492,Shaymin,GRASS,None,100,100,100,100,100,100,Green,0.2,2.1,The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.
+493,Arceus,NORMAL,None,120,120,120,120,120,120,White,3.2,320.0,It is told in mythology that this Pokémon was born before the universe even existed.
+494,Victini,PSYCHIC,FIRE,100,100,100,100,100,100,Yellow,0.4,4.0,"When it shares the infinite energy it creates, that being's entire body will be overflowing with power."
+495,Snivy,GRASS,None,45,45,55,63,45,55,Green,0.6,8.1,"They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop."
+496,Servine,GRASS,None,60,60,75,83,60,75,Green,0.8,16.0,"When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean."
+497,Serperior,GRASS,None,75,75,95,113,75,95,Green,3.3,63.0,It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.
+498,Tepig,FIRE,None,65,63,45,45,45,45,Red,0.5,9.9,"It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp."
+499,Pignite,FIRE,FIGHTING,90,93,55,55,70,55,Red,1.0,55.5,"When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke."
+500,Emboar,FIRE,FIGHTING,110,123,65,65,100,65,Red,1.6,150.0,It has mastered fast and powerful fighting moves. It grows a beard of fire.
+501,Oshawott,WATER,None,55,55,45,45,63,45,Blue,0.5,5.9,"It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+502,Dewott,WATER,None,75,75,60,60,83,60,Blue,0.8,24.5,"As a result of strict training, each Dewott learns different forms for using the scalchops."
+503,Samurott,WATER,None,95,100,85,70,108,70,Blue,1.5,94.6,One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.
+504,Patrat,NORMAL,None,45,55,39,42,35,39,Brown,0.5,11.6,"Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind."
+505,Watchog,NORMAL,None,60,85,69,77,60,69,Brown,1.1,27.0,"When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches."
+506,Lillipup,NORMAL,None,45,60,45,55,25,45,Brown,0.4,4.1,"Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle."
+507,Herdier,NORMAL,None,65,80,65,60,35,65,Gray,0.9,14.7,"It has black, cape-like fur that is very hard and decreases the amount of damage it receives."
+508,Stoutland,NORMAL,None,85,110,90,80,45,90,Gray,1.2,61.0,Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.
+509,Purrloin,DARK,None,41,50,37,66,50,37,Purple,0.4,10.1,"They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect."
+510,Liepard,DARK,None,64,88,50,106,88,50,Purple,1.1,37.5,"Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react."
+511,Pansage,GRASS,None,50,53,48,64,53,48,Green,0.6,10.5,It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.
+512,Simisage,GRASS,None,75,98,63,101,98,63,Green,1.1,30.5,"Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+513,Pansear,FIRE,None,50,53,48,64,53,48,Red,0.6,11.0,This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.
+514,Simisear,FIRE,None,75,98,63,101,98,63,Red,1.0,28.0,"When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets."
+515,Panpour,WATER,None,50,53,48,64,53,48,Blue,0.6,13.5,The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.
+516,Simipour,WATER,None,75,98,63,101,98,63,Blue,1.0,29.0,"It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+517,Munna,PSYCHIC,None,76,25,45,24,67,55,Pink,0.6,23.3,"It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist."
+518,Musharna,PSYCHIC,None,116,55,85,29,107,95,Pink,1.1,60.5,The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.
+519,Pidove,NORMAL,FLYING,50,55,50,43,36,30,Gray,0.3,2.1,These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.
+520,Tranquill,NORMAL,FLYING,62,77,62,65,50,42,Gray,0.6,15.0,"No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
+521,Unfezant,NORMAL,FLYING,80,115,80,93,65,55,Gray,1.2,29.0,Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.
+522,Blitzle,ELECTRIC,None,45,60,32,76,50,32,Black,0.8,29.8,Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.
+523,Zebstrika,ELECTRIC,None,75,100,63,116,80,63,Black,1.6,79.5,"They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates."
+524,Roggenrola,ROCK,None,55,75,85,15,25,25,Blue,0.4,18.0,They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.
+525,Boldore,ROCK,None,70,105,105,20,50,40,Blue,0.9,102.0,"When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
+526,Gigalith,ROCK,None,85,135,130,25,60,80,Blue,1.7,260.0,Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.
+527,Woobat,PSYCHIC,FLYING,65,45,43,72,55,43,Blue,0.4,2.1,The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.
+528,Swoobat,PSYCHIC,FLYING,67,57,55,114,77,55,Blue,0.9,10.5,Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.
+529,Drilbur,GROUND,None,60,85,40,68,30,45,Gray,0.3,8.5,"By spinning its body, it can dig straight through the ground at a speed of 30 mph."
+530,Excadrill,GROUND,STEEL,110,135,60,88,50,65,Gray,0.7,40.4,"More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels."
+531,Audino,NORMAL,None,103,60,86,50,60,86,Pink,1.1,31.0,"It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling."
+532,Timburr,FIGHTING,None,75,80,55,35,25,35,Gray,0.6,12.5,"Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."
+533,Gurdurr,FIGHTING,None,85,105,85,40,40,50,Gray,1.2,40.0,This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.
+534,Conkeldurr,FIGHTING,None,105,140,95,45,55,65,Brown,1.4,87.0,"Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
+535,Tympole,WATER,None,50,50,40,64,50,40,Blue,0.5,4.5,"By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk."
+536,Palpitoad,WATER,GROUND,75,65,55,69,65,55,Blue,0.8,17.0,"It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
+537,Seismitoad,WATER,GROUND,105,95,75,74,85,75,Blue,1.5,62.0,They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.
+538,Throh,FIGHTING,None,120,100,85,45,30,85,Red,1.3,55.5,"When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
+539,Sawk,FIGHTING,None,75,125,75,85,30,75,Blue,1.4,51.0,Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.
+540,Sewaddle,BUG,GRASS,45,53,70,42,40,60,Yellow,0.3,2.5,"Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+541,Swadloon,BUG,GRASS,55,63,90,42,50,80,Green,0.5,7.3,"It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+542,Leavanny,BUG,GRASS,75,103,80,92,70,70,Yellow,1.2,20.5,It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.
+543,Venipede,BUG,POISON,30,45,59,57,30,39,Red,0.4,5.3,"Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it."
+544,Whirlipede,BUG,POISON,40,55,99,47,40,79,Gray,1.2,58.5,"It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent."
+545,Scolipede,BUG,POISON,60,100,89,112,55,69,Red,2.5,200.5,"With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails."
+546,Cottonee,GRASS,FAIRY,40,27,60,66,37,50,Green,0.3,0.6,"Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+547,Whimsicott,GRASS,FAIRY,60,67,85,116,77,75,Green,0.7,6.6,"Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind."
+548,Petilil,GRASS,None,45,35,50,30,70,50,Green,0.5,6.6,"Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants."
+549,Lilligant,GRASS,None,70,60,75,90,110,75,Green,1.1,16.3,Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.
+550,Basculin,WATER,None,70,92,65,98,80,55,Green,1.0,18.0,"Red and blue Basculin usually do not get along, but sometimes members of one school mingle with the other's school."
+551,Sandile,GROUND,DARK,50,72,35,65,35,35,Brown,0.7,15.2,They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.
+552,Krokorok,GROUND,DARK,60,82,45,74,45,45,Brown,1.0,33.4,"The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings even in darkness."
+553,Krookodile,GROUND,DARK,95,117,80,92,65,70,Red,1.5,96.3,"They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile."
+554,Darumaka,FIRE,None,70,90,45,50,15,45,Red,0.6,37.5,"When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit."
+555,Darmanitan,FIRE,None,105,140,55,95,30,55,Red,1.3,92.9,"Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch."
+556,Maractus,GRASS,None,75,86,67,60,106,67,Green,1.0,28.0,"Arid regions are their habitat. They move rhythmically, making a sound similar to maracas."
+557,Dwebble,BUG,ROCK,50,65,85,55,35,35,Red,0.3,14.5,"When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+558,Crustle,BUG,ROCK,70,105,125,45,65,75,Red,1.4,200.0,"Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle."
+559,Scraggy,DARK,FIGHTING,50,75,70,48,35,70,Yellow,0.6,11.8,"Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
+560,Scrafty,DARK,FIGHTING,65,90,115,58,45,115,Red,1.1,30.0,It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.
+561,Sigilyph,PSYCHIC,FLYING,72,58,80,97,103,80,Black,1.4,14.0,"The guardians of an ancient city, they always fly the same route while keeping watch for invaders."
+562,Yamask,GHOST,None,38,30,85,30,55,65,Black,0.5,1.5,Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.
+563,Cofagrigus,GHOST,None,58,50,145,30,95,105,Yellow,1.7,76.5,Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.
+564,Tirtouga,WATER,ROCK,54,78,103,22,53,45,Blue,0.7,16.5,"Restored from a fossil, this Pokémon can dive to depths beyond half a mile."
+565,Carracosta,WATER,ROCK,74,108,133,32,83,65,Blue,1.2,81.0,"It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
+566,Archen,ROCK,FLYING,55,112,45,70,74,45,Yellow,0.5,9.5,"Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another."
+567,Archeops,ROCK,FLYING,75,140,65,110,112,65,Yellow,1.4,32.0,It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.
+568,Trubbish,POISON,None,50,50,62,65,40,62,Green,0.6,31.0,Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.
+569,Garbodor,POISON,None,80,95,82,75,60,82,Green,1.9,107.3,Consuming garbage makes new kinds of poison gases and liquids inside their bodies.
+570,Zorua,DARK,None,40,65,40,65,80,40,Gray,0.7,12.5,"To protect themselves from danger, they hide their true identities by transforming into people and Pokémon."
+571,Zoroark,DARK,None,60,105,60,105,120,60,Gray,1.6,81.1,Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.
+572,Minccino,NORMAL,None,55,50,40,75,40,40,Gray,0.4,5.8,"These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms."
+573,Cinccino,NORMAL,None,75,95,60,115,65,60,Gray,0.5,7.5,"Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches."
+574,Gothita,PSYCHIC,None,45,30,50,45,55,65,Purple,0.4,5.8,"They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see."
+575,Gothorita,PSYCHIC,None,60,45,70,55,75,85,Purple,0.7,18.0,"According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
+576,Gothitelle,PSYCHIC,None,70,55,95,65,95,110,Purple,1.5,44.0,They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.
+577,Solosis,PSYCHIC,None,45,30,40,20,105,50,Green,0.3,1.0,They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.
+578,Duosion,PSYCHIC,None,65,40,50,30,125,60,Green,0.6,8.0,"When their two divided brains think the same thoughts, their psychic power is maximized."
+579,Reuniclus,PSYCHIC,None,110,65,75,30,125,85,Green,1.0,20.1,"When Reuniclus shake hands, a network forms between their brains, increasing their psychic power."
+580,Ducklett,WATER,FLYING,62,44,50,55,44,50,Blue,0.5,5.5,"They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+581,Swanna,WATER,FLYING,75,87,63,98,87,63,White,1.3,24.2,Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.
+582,Vanillite,ICE,None,36,50,50,44,65,60,White,0.4,5.7,This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.
+583,Vanillish,ICE,None,51,65,65,59,80,75,White,1.1,41.0,"Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas."
+584,Vanilluxe,ICE,None,71,95,85,79,110,95,White,1.3,57.5,"Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards."
+585,Deerling,NORMAL,GRASS,60,60,50,75,40,50,Pink,0.6,19.5,The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.
+586,Sawsbuck,NORMAL,GRASS,80,100,70,95,60,70,Brown,1.9,92.5,"They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+587,Emolga,ELECTRIC,FLYING,55,75,60,103,75,60,White,0.4,5.0,The energy made in its cheeks' electric pouches is stored inside its membrane and released while it is gliding.
+588,Karrablast,BUG,None,50,75,45,60,40,45,Blue,0.5,5.9,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+589,Escavalier,BUG,STEEL,70,135,105,20,60,105,Gray,1.0,33.0,These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.
+590,Foongus,GRASS,POISON,69,55,45,15,55,55,White,0.2,1.0,"It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores."
+591,Amoonguss,GRASS,POISON,114,85,70,30,85,80,White,0.6,10.5,"It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion."
+592,Frillish,WATER,GHOST,55,40,50,40,65,85,White,1.2,33.0,"If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+593,Jellicent,WATER,GHOST,100,60,70,60,85,105,White,2.2,135.0,"The fate of the ships and crew that wander into Jellicent's habitat: all sunken, all lost, all vanished."
+594,Alomomola,WATER,None,165,75,80,65,40,45,Pink,1.2,31.6,It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.
+595,Joltik,BUG,ELECTRIC,50,47,50,65,57,50,Yellow,0.1,0.6,"They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch."
+596,Galvantula,BUG,ELECTRIC,70,77,60,108,97,60,Yellow,0.8,14.3,"When attacked, they create an electric barrier by spitting out many electrically charged threads."
+597,Ferroseed,GRASS,STEEL,44,50,91,10,24,86,Gray,0.6,18.8,It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.
+598,Ferrothorn,GRASS,STEEL,74,94,131,20,54,116,Gray,1.0,110.0,"They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them."
+599,Klink,STEEL,None,40,55,70,30,45,60,Gray,0.3,21.0,The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
+600,Klang,STEEL,None,60,80,95,50,70,85,Gray,0.6,51.0,"A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."
+601,Klinklang,STEEL,None,60,100,115,90,70,85,Gray,0.6,81.0,Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.
+602,Tynamo,ELECTRIC,None,35,55,40,60,45,40,White,0.2,0.3,"One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+603,Eelektrik,ELECTRIC,None,65,85,70,40,75,70,Blue,1.2,22.0,"These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+604,Eelektross,ELECTRIC,None,85,115,80,50,105,80,Blue,2.1,80.5,They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.
+605,Elgyem,PSYCHIC,None,55,55,55,30,85,55,Blue,0.5,9.0,Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.
+606,Beheeyem,PSYCHIC,None,75,75,75,40,125,95,Brown,1.0,34.5,It uses psychic power to control an opponent's brain and tamper with its memories.
+607,Litwick,GHOST,FIRE,50,30,55,20,65,55,White,0.3,3.1,"Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns."
+608,Lampent,GHOST,FIRE,60,40,60,55,95,60,White,0.6,13.0,It arrives near the moment of death and steals spirit from the body.
+609,Chandelure,GHOST,FIRE,60,55,90,80,145,90,Black,1.0,34.3,The spirits burned up in its ominous flame lose their way and wander this world forever.
+610,Axew,DRAGON,None,46,87,60,57,30,40,Green,0.6,18.0,"They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly."
+611,Fraxure,DRAGON,None,66,117,70,67,40,50,Green,1.0,36.0,"A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
+612,Haxorus,DRAGON,None,76,147,90,97,60,70,Yellow,1.8,105.5,Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.
+613,Cubchoo,ICE,None,55,70,40,40,60,40,White,0.5,8.5,"Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+614,Beartic,ICE,None,95,130,80,50,70,80,White,2.6,260.0,It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.
+615,Cryogonal,ICE,None,80,50,50,105,95,135,Blue,1.1,148.0,"They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit."
+616,Shelmet,BUG,None,50,40,85,25,40,65,Red,0.4,7.7,It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
+617,Accelgor,BUG,None,80,70,40,145,100,60,Red,0.8,25.3,"When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane."
+618,Stunfisk,GROUND,ELECTRIC,109,66,84,32,81,99,Brown,0.7,11.0,"It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity."
+619,Mienfoo,FIGHTING,None,45,85,50,65,55,50,Yellow,0.9,20.0,"In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies."
+620,Mienshao,FIGHTING,None,65,125,60,105,95,60,Purple,1.4,35.5,"Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
+621,Druddigon,DRAGON,None,77,120,90,48,60,90,Red,1.6,139.0,"It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move."
+622,Golett,GROUND,GHOST,59,74,50,35,35,50,Green,1.0,92.0,Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.
+623,Golurk,GROUND,GHOST,89,124,80,55,55,80,Green,2.8,330.0,It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.
+624,Pawniard,DARK,STEEL,45,85,70,60,40,40,Red,0.5,10.2,"Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey."
+625,Bisharp,DARK,STEEL,65,125,100,70,60,70,Red,1.6,70.0,Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.
+626,Bouffalant,NORMAL,None,95,110,95,55,40,95,Brown,1.6,94.6,"Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt."
+627,Rufflet,NORMAL,FLYING,70,83,50,60,37,50,White,0.5,10.5,"They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger."
+628,Braviary,NORMAL,FLYING,100,123,75,80,57,75,Red,1.5,41.0,They fight for their friends without any thought about danger to themselves. One can carry a car while flying.
+629,Vullaby,DARK,FLYING,70,55,75,60,45,65,Brown,0.5,9.0,Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.
+630,Mandibuzz,DARK,FLYING,110,65,105,80,55,95,Brown,1.2,39.5,"Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones."
+631,Heatmor,FIRE,None,85,97,66,65,105,66,Red,1.4,58.0,"It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them."
+632,Durant,BUG,STEEL,58,109,112,109,48,48,Gray,0.3,33.0,"They attack in groups, covering themselves in steel armor to protect themselves from Heatmor."
+633,Deino,DARK,DRAGON,52,65,50,38,45,50,Blue,0.8,17.3,"Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves."
+634,Zweilous,DARK,DRAGON,72,85,70,58,65,70,Blue,1.4,50.0,"After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along."
+635,Hydreigon,DARK,DRAGON,92,105,90,98,125,90,Blue,1.8,160.0,"It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"
+636,Larvesta,BUG,FIRE,55,85,55,60,50,55,White,1.1,28.8,The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.
+637,Volcarona,BUG,FIRE,85,60,65,100,135,105,White,1.6,46.0,"When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun."
+638,Cobalion,STEEL,FIGHTING,91,90,129,108,90,72,Blue,2.1,250.0,It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.
+639,Terrakion,ROCK,FIGHTING,91,129,90,108,72,90,Gray,1.9,260.0,"Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon."
+640,Virizion,GRASS,FIGHTING,91,90,72,108,90,129,Green,2.0,200.0,Legends say this Pokémon confounded opponents with its swift movements.
+641,Tornadus,FLYING,None,79,115,70,111,125,80,Green,1.5,63.0,"Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away."
+642,Thundurus,ELECTRIC,FLYING,79,115,70,111,125,80,Blue,1.5,61.0,"As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."
+643,Reshiram,DRAGON,FIRE,100,120,100,90,150,120,White,3.2,330.0,"When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather."
+644,Zekrom,DRAGON,ELECTRIC,100,150,120,90,120,100,Black,2.9,345.0,"Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail."
+645,Landorus,GROUND,FLYING,89,125,90,101,115,80,Brown,1.5,68.0,"From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+646,Kyurem,DRAGON,ICE,125,130,90,95,130,90,Gray,3.0,325.0,"It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out."
+647,Keldeo,WATER,FIGHTING,91,72,90,108,129,90,Yellow,1.4,48.5,"When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow."
+648,Meloetta,NORMAL,PSYCHIC,100,77,77,90,128,128,White,0.6,6.5,Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
+649,Genesect,BUG,STEEL,71,120,95,99,120,95,Purple,1.5,82.5,This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
+650,Chespin,GRASS,None,56,61,65,38,48,45,Green,0.4,9.0,Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn't faze it.
+651,Quilladin,GRASS,None,61,78,95,57,56,58,Green,0.7,29.0,They strengthen their lower bodies by running into one another. They are very kind and won't start fights.
+652,Chesnaught,GRASS,FIGHTING,88,107,122,64,74,75,Green,1.6,90.0,"When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast."
+653,Fennekin,FIRE,None,40,45,40,60,62,60,Red,0.4,9.4,"As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears."
+654,Braixen,FIRE,None,59,59,58,73,90,70,Red,1.0,14.5,"When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+655,Delphox,FIRE,PSYCHIC,75,69,72,104,114,100,Red,1.5,39.0,"Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame."
+656,Froakie,WATER,None,41,56,40,71,62,44,Blue,0.3,7.0,"It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+657,Frogadier,WATER,None,54,63,52,97,83,56,Blue,0.6,10.9,"Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute's time."
+658,Greninja,WATER,DARK,72,95,67,122,103,71,Blue,1.5,40.0,"It appears and vanishes with a ninja's grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water."
+659,Bunnelby,NORMAL,None,38,36,38,57,32,36,Brown,0.4,5.0,It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.
+660,Diggersby,NORMAL,GROUND,85,56,77,78,50,77,Brown,1.0,42.4,"As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily."
+661,Fletchling,NORMAL,FLYING,45,50,43,62,40,38,Red,0.3,1.7,"Despite the beauty of its lilting voice, it's merciless to intruders that enter its territory."
+662,Fletchinder,FIRE,FLYING,62,73,55,84,56,52,Red,0.7,16.0,"The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going."
+663,Talonflame,FIRE,FLYING,78,81,71,126,74,69,Red,1.2,24.5,"When attacking prey, it can reach speeds of up to 310 mph. It finishes its prey off with a colossal kick."
+664,Scatterbug,BUG,None,38,35,40,35,27,25,Black,0.3,2.5,"The powder that covers its body regulates its temperature, so it can live in any region or climate."
+665,Spewpa,BUG,None,45,22,60,29,27,30,Black,0.3,8.4,"The beaks of bird Pokémon can't begin to scratch its stalwart body. To defend itself, it spews powder."
+666,Vivillon,BUG,FLYING,80,52,50,89,90,50,White,1.2,17.0,The patterns on this Pokémon's wings depend on the climate and topography of its habitat. It scatters colorful scales.
+667,Litleo,FIRE,NORMAL,62,50,58,72,73,54,Brown,0.6,13.5,They set off on their own from their pride and live by themselves to become stronger. These hot-blooded Pokémon are quick to fight.
+668,Pyroar,FIRE,NORMAL,86,68,72,106,109,66,Brown,1.5,81.5,"With fiery breath of more than 10,000 degrees Fahrenheit, they viciously threaten any challenger. The females protect the pride's cubs."
+669,Flabébé,FAIRY,None,44,38,39,42,61,79,White,0.1,0.1,"When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart."
+670,Floette,FAIRY,None,54,45,47,52,75,98,White,0.2,0.9,"When the flowers of a well-tended flower bed bloom, it appears and celebrates with an elegant dance."
+671,Florges,FAIRY,None,78,65,68,75,112,154,White,1.1,10.0,"In times long past, governors of castles would invite Florges to create flower gardens to embellish the castle domains."
+672,Skiddo,GRASS,None,66,65,48,52,62,57,Brown,0.9,31.0,"If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back."
+673,Gogoat,GRASS,None,123,100,62,68,97,81,Brown,1.7,91.0,They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.
+674,Pancham,FIGHTING,None,67,82,62,43,46,48,White,0.6,8.0,"It does its level best to glare and pull a scary face, but it can't help grinning if anyone pats its head."
+675,Pangoro,FIGHTING,DARK,95,124,78,58,69,71,White,2.1,136.0,"It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole."
+676,Furfrou,NORMAL,None,75,80,60,102,65,90,White,1.2,28.0,"Historically, in the Kalos region, these Pokémon were the designated guardians of the king."
+677,Espurr,PSYCHIC,None,62,48,54,68,63,60,Gray,0.3,3.5,"It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power."
+678,Meowstic,PSYCHIC,None,74,48,76,104,83,81,Blue,0.6,8.5,The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.
+679,Honedge,STEEL,GHOST,45,80,100,28,35,37,Brown,0.8,2.0,"If anyone dares to grab its hilt, it wraps a blue cloth around that person's arm and drains that person's life energy completely."
+680,Doublade,STEEL,GHOST,59,110,150,35,45,49,Brown,0.8,2.0,"The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay."
+681,Aegislash,STEEL,GHOST,60,50,140,60,50,140,Brown,1.7,53.0,"Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king."
+682,Spritzee,FAIRY,None,78,52,60,23,63,65,Pink,0.2,0.5,"In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked."
+683,Aromatisse,FAIRY,None,101,72,72,29,99,89,Pink,0.8,15.5,"Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it."
+684,Swirlix,FAIRY,None,62,48,66,49,59,57,White,0.4,3.5,"Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy."
+685,Slurpuff,FAIRY,None,82,80,86,72,85,75,White,0.8,5.0,"Its sense of smell is 100 million times better than a human's, so even the faintest scent tells it about everything in the area. It's like it can see with its nose!"
+686,Inkay,DARK,PSYCHIC,53,54,53,45,37,46,Blue,0.4,3.5,"It flashes the light-emitting spots on its body, which drains its opponent's will to fight. It takes the opportunity to scuttle away and hide."
+687,Malamar,DARK,PSYCHIC,86,92,88,73,68,75,Blue,1.5,47.0,"It lures its prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids."
+688,Binacle,ROCK,WATER,42,52,67,50,39,56,Brown,0.5,31.0,"They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline."
+689,Barbaracle,ROCK,WATER,72,105,115,54,86,68,Brown,1.3,96.0,"Barbaracle's legs and hands have minds of their own, and they will move independently. But they usually follow the head's orders."
+690,Skrelp,POISON,WATER,50,60,60,30,60,60,Brown,0.5,7.3,It looks just like rotten kelp. It hides from foes while storing up power for its evolution.
+691,Dragalge,POISON,DRAGON,65,75,90,44,97,123,Brown,1.8,81.5,"Tales are told of ships that wander into seas where Dragalge live, never to return."
+692,Clauncher,WATER,None,50,53,62,44,58,63,Blue,0.5,8.3,"Through controlled explosions of internal gas, it can expel water like a pistol shot. At close distances, it can shatter rock."
+693,Clawitzer,WATER,None,71,73,88,59,120,89,Blue,1.3,35.3,"By expelling water from the nozzle in the back of its claw, it can move at a speed of 60 knots."
+694,Helioptile,ELECTRIC,NORMAL,44,38,33,70,61,43,Yellow,0.5,6.0,The frills on either side of its head have cells that generate electricity when exposed to sunlight.
+695,Heliolisk,ELECTRIC,NORMAL,62,55,52,109,109,94,Yellow,1.0,21.0,"It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds."
+696,Tyrunt,ROCK,DRAGON,58,89,77,48,45,45,Brown,0.8,26.0,Its immense jaws have enough destructive force that it can chew up an automobile. It lived 100 million years ago.
+697,Tyrantrum,ROCK,DRAGON,82,121,119,71,69,59,Red,2.5,270.0,"Nothing could stop this Pokémon 100 million years ago, so it behaved like a king."
+698,Amaura,ROCK,ICE,77,59,50,46,67,63,Blue,1.3,25.2,This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.
+699,Aurorus,ROCK,ICE,123,77,72,58,99,92,Blue,2.7,255.0,"Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack."
+700,Sylveon,FAIRY,None,95,65,65,60,110,130,Pink,1.0,23.5,It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.
+701,Hawlucha,FIGHTING,FLYING,78,92,75,118,74,63,Green,0.8,21.5,"With its wings, it controls its position in the air. It likes to attack from above, a maneuver that is difficult to defend against."
+702,Dedenne,ELECTRIC,FAIRY,67,58,57,101,81,67,Yellow,0.2,2.2,"It uses its tail to absorb electricity from power plants or from outlets in houses, and then it fires the electricity from its whiskers."
+703,Carbink,ROCK,FAIRY,50,50,150,50,50,150,Gray,0.3,5.7,It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.
+704,Goomy,DRAGON,None,45,50,35,40,55,75,Purple,0.3,2.8,It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.
+705,Sliggoo,DRAGON,None,68,75,53,60,83,113,Purple,0.8,17.5,"Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose."
+706,Goodra,DRAGON,None,90,100,70,80,110,150,Purple,2.0,150.5,It attacks with retractable horns. It throws a punch that's the equivalent of the force of a hundred pro boxers.
+707,Klefki,STEEL,FAIRY,57,80,91,75,80,87,Gray,0.2,3.0,"It never lets go of a key that it likes, so people give it the keys to vaults and safes as a way to prevent crime."
+708,Phantump,GHOST,GRASS,43,70,48,38,50,60,Brown,0.4,7.0,"According to old tales, these Pokémon are stumps possessed by the spirits of children who died while lost in the forest."
+709,Trevenant,GHOST,GRASS,85,110,76,56,65,82,Brown,1.5,71.0,"Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body."
+710,Pumpkaboo,GHOST,GRASS,49,66,70,51,44,55,Brown,0.4,5.0,It is said to carry wandering spirits to the place where they belong so they can move on.
+711,Gourgeist,GHOST,GRASS,65,90,122,84,58,75,Brown,0.9,12.5,It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.
+712,Bergmite,ICE,None,55,69,85,28,32,35,Blue,1.0,99.5,"Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains."
+713,Avalugg,ICE,None,95,117,184,28,44,46,Blue,2.0,505.0,The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.
+714,Noibat,FLYING,DRAGON,40,30,35,55,45,40,Purple,0.5,8.0,"Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves."
+715,Noivern,FLYING,DRAGON,85,70,80,123,97,80,Purple,1.5,85.0,The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.
+716,Xerneas,FAIRY,None,126,131,95,99,131,98,Blue,3.0,215.0,"When the horns on its head shine in seven colors, it is said to be sharing everlasting life."
+717,Yveltal,DARK,FLYING,126,131,95,99,131,98,Red,5.8,203.0,"When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more."
+718,Zygarde,DRAGON,GROUND,108,100,121,95,81,95,Green,5.0,305.0,It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.
+719,Diancie,ROCK,FAIRY,50,100,150,50,100,150,Pink,0.7,8.8,It can instantly create many diamonds by compressing the carbon in the air between its hands.
+720,Hoopa,PSYCHIC,GHOST,80,110,60,70,150,130,Pink,0.5,9.0,It gathers things it likes and passes them through its loop to teleport them to a secret place.
+721,Volcanion,FIRE,WATER,100,70,120,80,130,130,Red,1.7,195.0,It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.
